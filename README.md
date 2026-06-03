@@ -46,8 +46,8 @@ All tools target **TypeScript and Next.js** codebases and produce a scored healt
 ## Links
 
 - **Homepage:** https://noctisnova.com
-- **Repository:** https://github.com/noctisnova/noctisnova
-- **Issues:** https://github.com/noctisnova/noctisnova/issues
+- **Repository:** https://github.com/noctisnova/noctisnova-npm
+- **Issues:** https://github.com/noctisnova/noctisnova-npm/issues
 
 ## License
 
