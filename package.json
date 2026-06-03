@@ -1,0 +1,51 @@
+{
+  "name": "noctisnova",
+  "version": "1.0.0",
+  "description": "The NoctisNova CLI suite — run any doctor tool from one command.",
+  "type": "module",
+  "bin": {
+    "noctisnova": "./index.js"
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "noctisnova",
+    "dead-code",
+    "auth",
+    "security",
+    "orm",
+    "prisma",
+    "code-structure",
+    "nextjs",
+    "typescript",
+    "cli",
+    "static-analysis"
+  ],
+  "author": "NoctisNova <hello@noctisnova.com> (https://noctisnova.com)",
+  "homepage": "https://noctisnova.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noctisnova/noctisnova"
+  },
+  "bugs": {
+    "url": "https://github.com/noctisnova/noctisnova/issues",
+    "email": "hello@noctisnova.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@clack/prompts": "^0.9.1",
+    "chalk": "^5.4.1",
+    "auth-doctor": "^1.0.1",
+    "dead-doctor": "^1.0.1",
+    "neat-doctor": "^1.0.1",
+    "orm-doctor": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
