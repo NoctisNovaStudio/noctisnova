@@ -1,6 +1,6 @@
 {
   "name": "noctisnova",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The NoctisNova CLI suite — run any doctor tool from one command.",
   "type": "module",
   "bin": {
